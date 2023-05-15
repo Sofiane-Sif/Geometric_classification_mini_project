@@ -16,3 +16,6 @@ $ pip install -r requirements.txt
 
 3. Step 3 - Make predictions on new shape images (run **predict.py**)
 
+---
+
+The _output_ folder contains the trained model and its performance
