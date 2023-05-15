@@ -12,6 +12,7 @@ to install all packages :
 ```
 $ pip install -r requirements.txt
 ```
-2. Step 2 - Generate the dataset (run generate_dataset.py will create dataset folder with 3000 images for each shape (rectangles, ellipses and triangles).
+2. Step 2 - Generate the dataset (running **generate_dataset.py** will create **_dataset_** folder with 3000 images for each shape (rectangles, ellipses and triangles).
 
-3. Step 3 - Make predictions on new shape images (run predict.py)
+3. Step 3 - Make predictions on new shape images (run **predict.py**)
+
