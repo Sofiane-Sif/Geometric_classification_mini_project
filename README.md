@@ -6,6 +6,7 @@
 #### 2 - Train a classification model on the dataset and evaluate its performance on a held-out test set.
 
 ---
+##### To run the project : 
 
 1. Step 1 - Install all packages
 to install all packages :
