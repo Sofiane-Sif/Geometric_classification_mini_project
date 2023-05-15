@@ -20,4 +20,4 @@ $ pip install -r requirements.txt
 ---
 #### **Evaluation** : 
 
-The _output_ folder contains the trained model and its performance
+The _output_ folder contains the trained model (_model.pth_) and its performance (_plot.png_)
