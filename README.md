@@ -9,7 +9,6 @@
 ##### To run the project : 
 
 1. Step 1 - Install all packages
-to install all packages :
 ```
 $ pip install -r requirements.txt
 ```
