@@ -2,9 +2,9 @@
 --- 
 #### **Project purpose**
 
-#####  *Item1 Generate a synthetic dataset of shapes, such as rectangles, triangles, and ellipses, with random position, orientation, and color. The dataset should be sufficiently large and varied to allow for robust training and testing of the model.
+#####  - Generate a synthetic dataset of shapes, such as rectangles, triangles, and ellipses, with random position, orientation, and color. The dataset should be sufficiently large and varied to allow for robust training and testing of the model.
 
-##### *Item2 Train a classification model on the dataset and evaluate its performance on a held-out test set.
+##### - Train a classification model on the dataset and evaluate its performance on a held-out test set.
 
 ---
 ##### To run the project : 
