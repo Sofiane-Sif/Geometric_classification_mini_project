@@ -7,6 +7,11 @@
 ##### - Train a classification model on the dataset and evaluate its performance on a held-out test set.
 
 ---
+#### **Method** : 
+
+Classification CNN using LeNet structure with pytorch
+
+---
 #### **To run the project** : 
 
 1. Step 1 - Install all packages
