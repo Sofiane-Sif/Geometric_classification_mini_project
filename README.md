@@ -1,6 +1,6 @@
 # Geometric classificication project
 --- 
-####  **Project purpose : **
+####  Project purpose :
 
 #####  - Generate a synthetic dataset of shapes, such as rectangles, triangles, and ellipses, with random position, orientation, and color. The dataset should be sufficiently large and varied to allow for robust training and testing of the model.
 
