@@ -31,7 +31,7 @@ The _output_ folder contains the trained model (_model.pth_) and its performance
 Here is the screenshot result of the prediction that you should have when you run **predict.py**. 
 
 
-![Image](/Geometric_predict.png)
+![Image](/output/Geometric_predict.png)
 
 
 
