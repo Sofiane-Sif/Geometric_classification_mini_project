@@ -27,6 +27,7 @@ $ pip install -r requirements.txt
 
 The _output_ folder contains the trained model (_model.pth_) and its performance (_plot.png_)
 <br>
+Here is the screenshot result of the prediction that you should have. 
 ![Image](/Geometric_predict.png)
 
 
