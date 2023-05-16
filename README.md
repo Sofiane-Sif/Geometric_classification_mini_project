@@ -18,9 +18,9 @@ Classification CNN using LeNet structure with pytorch
 ```
 $ pip install -r requirements.txt
 ```
-2. Step 2 - Generate the dataset, running **generate_dataset.py** will create **_dataset_** folder with 3000 images for each shape (rectangles, ellipses and triangles).
+2. Step 2 (OPTIONNAL) - If you wish, you can generate the dataset, running **generate_dataset.py** will create **_dataset_** folder with 3000 images for each shape (rectangles, ellipses and triangles).
 
-3. Step 3 - Make predictions on new shape images (run **predict.py** will open a window showing a random shape image with the prediction of the model). To make a new prediction, tab any keyboard key. To quit the prediction's window, tap 'q'. 
+3. Step 3 - Make predictions on new shape images (run **predict.py** will open a window showing a random shape image with the model's prediction). To make a new prediction, tab any keyboard key. To quit the prediction's window, tap 'q'. 
 
 ---
 #### **Evaluation** : 
