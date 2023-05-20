@@ -9,7 +9,7 @@
 ---
 #### **Method** : 
 
-Classification CNN using LeNet structure with pytorch
+Classification CNN implementing LeNet structure with pytorch
 
 ---
 #### **To run the project** : 
