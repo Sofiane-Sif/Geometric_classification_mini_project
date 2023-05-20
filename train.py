@@ -39,8 +39,14 @@ EPOCHS = 12
 TRAIN_SPLIT = 0.8
 VAL_SPLIT = 1 - TRAIN_SPLIT
 
-# set the device we will be using to train the model
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# set the device we will be using to train the model (mps is for M1 MacBook)
+if torch.cuda.is_available():
+    device_name = "cuda"
+elif torch.backends.mps.is_available():
+    device_name = "mps"
+else:
+    device_name = "cpu"
+device = torch.device(device_name)
 
 # load the dataset
 print("[INFO] loading dataset...")
