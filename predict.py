@@ -23,6 +23,8 @@ if args["model"] is None:
 dev = "cpu"
 if torch.cuda.is_available():
     dev = "cuda"
+elif torch.backends.mps.is_available():
+     dev = "mps"
 device = torch.device(dev)
 
 # load the model and set it to evaluation mode
